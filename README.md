@@ -8,4 +8,5 @@ investment bank "Stratton Oakmont", the first bank bank that wants to do good fo
 ## UML
 We recieved an UML diagram and we needed to implement it.
 
-Note : The instructions can be found in the pdf file
+## Note 
+The instructions can be found in the pdf file
