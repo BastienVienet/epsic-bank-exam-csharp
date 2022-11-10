@@ -1,0 +1,15 @@
+C:\Users\BastienVienet\OneDrive - Jobtrek\Apprentissage - Jobtrek\EPSIC\320_POO\Labo\Labo 2\Labo2_Banque\bin\Debug\net6.0\Labo2_Banque.exe
+C:\Users\BastienVienet\OneDrive - Jobtrek\Apprentissage - Jobtrek\EPSIC\320_POO\Labo\Labo 2\Labo2_Banque\bin\Debug\net6.0\Labo2_Banque.deps.json
+C:\Users\BastienVienet\OneDrive - Jobtrek\Apprentissage - Jobtrek\EPSIC\320_POO\Labo\Labo 2\Labo2_Banque\bin\Debug\net6.0\Labo2_Banque.runtimeconfig.json
+C:\Users\BastienVienet\OneDrive - Jobtrek\Apprentissage - Jobtrek\EPSIC\320_POO\Labo\Labo 2\Labo2_Banque\bin\Debug\net6.0\Labo2_Banque.dll
+C:\Users\BastienVienet\OneDrive - Jobtrek\Apprentissage - Jobtrek\EPSIC\320_POO\Labo\Labo 2\Labo2_Banque\bin\Debug\net6.0\Labo2_Banque.pdb
+C:\Users\BastienVienet\OneDrive - Jobtrek\Apprentissage - Jobtrek\EPSIC\320_POO\Labo\Labo 2\Labo2_Banque\obj\Debug\net6.0\Labo2_Banque.csproj.AssemblyReference.cache
+C:\Users\BastienVienet\OneDrive - Jobtrek\Apprentissage - Jobtrek\EPSIC\320_POO\Labo\Labo 2\Labo2_Banque\obj\Debug\net6.0\Labo2_Banque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BastienVienet\OneDrive - Jobtrek\Apprentissage - Jobtrek\EPSIC\320_POO\Labo\Labo 2\Labo2_Banque\obj\Debug\net6.0\Labo2_Banque.AssemblyInfoInputs.cache
+C:\Users\BastienVienet\OneDrive - Jobtrek\Apprentissage - Jobtrek\EPSIC\320_POO\Labo\Labo 2\Labo2_Banque\obj\Debug\net6.0\Labo2_Banque.AssemblyInfo.cs
+C:\Users\BastienVienet\OneDrive - Jobtrek\Apprentissage - Jobtrek\EPSIC\320_POO\Labo\Labo 2\Labo2_Banque\obj\Debug\net6.0\Labo2_Banque.csproj.CoreCompileInputs.cache
+C:\Users\BastienVienet\OneDrive - Jobtrek\Apprentissage - Jobtrek\EPSIC\320_POO\Labo\Labo 2\Labo2_Banque\obj\Debug\net6.0\Labo2_Banque.dll
+C:\Users\BastienVienet\OneDrive - Jobtrek\Apprentissage - Jobtrek\EPSIC\320_POO\Labo\Labo 2\Labo2_Banque\obj\Debug\net6.0\refint\Labo2_Banque.dll
+C:\Users\BastienVienet\OneDrive - Jobtrek\Apprentissage - Jobtrek\EPSIC\320_POO\Labo\Labo 2\Labo2_Banque\obj\Debug\net6.0\Labo2_Banque.pdb
+C:\Users\BastienVienet\OneDrive - Jobtrek\Apprentissage - Jobtrek\EPSIC\320_POO\Labo\Labo 2\Labo2_Banque\obj\Debug\net6.0\Labo2_Banque.genruntimeconfig.cache
+C:\Users\BastienVienet\OneDrive - Jobtrek\Apprentissage - Jobtrek\EPSIC\320_POO\Labo\Labo 2\Labo2_Banque\obj\Debug\net6.0\ref\Labo2_Banque.dll
